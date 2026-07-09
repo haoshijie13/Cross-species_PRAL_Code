@@ -1,4 +1,4 @@
-# MultiSpeciesCode
+# Cross-species_PRAL_Code
 
 <img width="820" height="939" alt="image" src="https://github.com/user-attachments/assets/d5682a0d-62fe-4a68-a61d-2648ef443991" />
 
