@@ -29,7 +29,7 @@ The code is organized as a notebook-driven analysis workflow plus reusable plott
 ## Repository structure
 
 ```text
-MultiSpeciesCode/
+Cross-species_PRAL_Code/
 ├── Main_Code/
 │   ├── 01.Orthgroup.ipynb
 │   ├── 02.1.RNA_integrated.ipynb
@@ -59,7 +59,6 @@ MultiSpeciesCode/
 │   ├── flatmap_plot.R
 │   ├── knn_function.R
 │   └── plot_function.R
-├── README_raw.md
 └── README.md
 ```
 
